@@ -17,7 +17,7 @@ The queries leverage advanced SQL functions and techniques to analyze sales tren
 - pizzas: Contains pizza-related information, including pizza_id, pizza_type_id, price, size, etc.
 - pizza_types: Describes pizza types and categories, including pizza_type_id, name, category, etc.
 
-## SQL Queries Overview
+## Queries Overview
 
 - Total Orders Calculation: Retrieves the total number of orders placed.
 - Revenue Calculation: Calculates total revenue from pizza sales.
