@@ -11,8 +11,7 @@ The queries leverage advanced SQL functions and techniques to analyze sales tren
 
 <br>
 The database comprises the following tables:
-<br>
-<br>
+
 - orders: Contains details about each order, including order_id, order_date, order_time, etc.
 - order_details: Stores order specifics, such as order_id, pizza_id, quantity, etc.
 - pizzas: Contains pizza-related information, including pizza_id, pizza_type_id, price, size, etc.
