@@ -10,7 +10,7 @@ The queries leverage advanced SQL functions and techniques to analyze sales tren
 ![Screenshot 2024-08-28 200832](https://github.com/user-attachments/assets/c9d592fc-2034-4fa5-8f76-6116ebbfa766)
 
 <br>
-**The database comprises the following tables:**
+__The database comprises the following tables🇧🇻
 <br>
 
 - orders: Contains details about each order, including order_id, order_date, order_time, etc.
